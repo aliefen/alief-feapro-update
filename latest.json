@@ -1,0 +1,21 @@
+{
+ "product": "ALIEF_FEAPRO",
+ "version": "0.5.4",
+ "date": "2026-11-13",
+ "sha256": "6d8ed5c5dfe0ef966b7bc4150ecd44777c6b4594d770213d9e24589006e898ba",
+ "size": 215055603,
+ "parts": [
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.4.exe.011"
+ ],
+ "notes": "ALIEF FEA PRO 0.5.4: welding habitat di kaki jacket / riser / pipa dasar laut dengan tumpuan klem otomatis, margin gelombang dan drag arus sesuai kedalaman, faktor keamanan otomatis per rule set (kelas / migas / PVHO), Laporan C dilengkapi parameter dan batasan rule, update otomatis bawaan."
+}
