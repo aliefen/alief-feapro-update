@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.4",
- "date": "2026-11-13",
- "sha256": "6d8ed5c5dfe0ef966b7bc4150ecd44777c6b4594d770213d9e24589006e898ba",
- "size": 215055603,
+ "version": "0.5.5",
+ "date": "2026-11-14",
+ "sha256": "9253931b80a51453a30f2f269c54252f741a94a2e063a74ea9d80b80b934764a",
+ "size": 215067630,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.4.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.5.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.4: welding habitat di kaki jacket / riser / pipa dasar laut dengan tumpuan klem otomatis, margin gelombang dan drag arus sesuai kedalaman, faktor keamanan otomatis per rule set (kelas / migas / PVHO), Laporan C dilengkapi parameter dan batasan rule, update otomatis bawaan."
+ "notes": "ALIEF FEA PRO 0.5.5: habitat di kaki jacket / riser - pipa yang digambar di model dikenali otomatis (tanpa input sumbu / diameter), ring klem yang kosong diperbaiki otomatis sehingga analisa tidak berhenti."
 }
