@@ -1,0 +1,9 @@
+{
+ "product": "ALIEF_FEA_RHINO",
+ "version": "1.4.0",
+ "date": "2026-11-15",
+ "file": "ALIEF_FEA_Rhino_v1.4.0.zip",
+ "sha256": "aeaf814089e9e2fe31f74602bfe5832c5d1eec529899fa22cdd4187f55b98404",
+ "size": 1904703,
+ "notes": "Update otomatis lewat GitHub (AF_Update, roll back). Sejak 1.3: batas jumlah facet otomatis dan Limit X / Y / Z supaya file .alfea tetap bisa dibuka ALIEF FEAPRO."
+}
