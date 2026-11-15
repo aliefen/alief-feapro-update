@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.7",
+ "version": "0.5.8",
  "date": "2026-11-16",
- "sha256": "7955633a8d45e05b912a1864b85694bac8988d26e377664ab64a6c38c350ee5f",
- "size": 219696605,
+ "sha256": "2a16911f33bd2aa3aedd95f67cf218c00112588f6f5c556546b7e0569a0995ea",
+ "size": 219712950,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.7.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.8.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.7: layar kerja lebar (tata letak seperti software FEM: panel di kiri, ribbon ringkas, Wide view F11, latar 3D pilihan, indikator proses) dan model besar dari plugin Rhino jauh lebih cepat (buka file, Model Doctor, meshing, solve)."
+ "notes": "ALIEF FEA PRO 0.5.8: habitat - pipa ber-facet dikenali dari bentuknya (tidak lagi 'No member found' / diameter salah / panah beban hilang setelah Model Doctor), pilihan 1-2 pelat tidak lagi menghentikan dialog."
 }
