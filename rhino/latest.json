@@ -1,9 +1,0 @@
-{
- "product": "ALIEF_FEA_RHINO",
- "version": "1.4.1",
- "date": "2026-11-16",
- "file": "ALIEF_FEA_Rhino_v1.4.1.zip",
- "sha256": "cc26242584c4c59f39dbc479e3d428ca3b332005fbe5abf7a0fc6939de6195de",
- "size": 1904968,
- "notes": "1.4.1: toolbar ALIEF FEA muncul kembali setelah update (pada 1.4.0 toolbar bisa hilang). Termasuk update otomatis, batas jumlah facet dan Limit X / Y / Z."
-}
