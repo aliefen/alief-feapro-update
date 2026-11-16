@@ -1,9 +1,9 @@
 {
  "product": "ALIEF_FEA_RHINO",
- "version": "1.4.1",
+ "version": "1.4.2",
  "date": "2026-11-16",
- "file": "ALIEF_FEA_Rhino_v1.4.1.zip",
- "sha256": "cc26242584c4c59f39dbc479e3d428ca3b332005fbe5abf7a0fc6939de6195de",
- "size": 1904968,
- "notes": "1.4.1: toolbar ALIEF FEA muncul kembali setelah update (pada 1.4.0 toolbar bisa hilang). Termasuk update otomatis, batas jumlah facet dan Limit X / Y / Z."
+ "file": "ALIEF_FEA_Rhino_v1.4.2.zip",
+ "sha256": "854ca16c5289cddb7d6091d3b99f4f925363d7445792927e2c1a83c4eeafcc81",
+ "size": 2000170,
+ "notes": "1.4.2: ujung profil yang bertemu di sudut dipotong mitre sehingga menyatu penuh (3D View, AF_3DProfiles). 1.4.1: toolbar muncul kembali setelah update."
 }
