@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.8",
+ "version": "0.5.9",
  "date": "2026-11-16",
- "sha256": "2a16911f33bd2aa3aedd95f67cf218c00112588f6f5c556546b7e0569a0995ea",
- "size": 219712950,
+ "sha256": "abcd5d67ee29c0f8da156199a8ca326d2c4ae5ff9daf2fbf7e3cd8cdf99ab765",
+ "size": 219724813,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.8.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.9.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.8: habitat - pipa ber-facet dikenali dari bentuknya (tidak lagi 'No member found' / diameter salah / panah beban hilang setelah Model Doctor), pilihan 1-2 pelat tidak lagi menghentikan dialog."
+ "notes": "ALIEF FEA PRO 0.5.9: jenis habitat baru - atmospheric habitat pada kaki jacket / riser / pipa (dirakit di bawah air, trunk ke permukaan, dewatering; 1 atm di dalam, tekanan air penuh ke dalam pada semua dinding)."
 }
