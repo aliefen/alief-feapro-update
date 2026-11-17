@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.11",
+ "version": "0.5.12",
  "date": "2026-11-17",
- "sha256": "d1827d030e5fef122abbfa491d434805d1cc1d0e2de9547849799529cb2a2294",
- "size": 221220962,
+ "sha256": "d72716d3fcc1d98a12e37a9ce44e3a5873fd96e3073ebca44fec4fb2402fa598",
+ "size": 221205783,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.11.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.12.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.11: tampilan mesh dan hasil analisa menggambar ujung profil di sudut sama seperti tampilan model."
+ "notes": "ALIEF FEA PRO 0.5.12: ujung profil yang berhenti beberapa mm sebelum pelat diperpanjang otomatis (tidak ada lagi tegangan puncak palsu di ujung penegar); tabel Code check menunjukkan letak elemen penentu dan jumlah elemen di atas batas; peringatan beban yang tidak masuk load case dan tekanan salah satuan."
 }
