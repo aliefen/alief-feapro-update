@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.10",
+ "version": "0.5.11",
  "date": "2026-11-17",
- "sha256": "ae59f9852a51321f6f0faa3899e47a269e12dbbc9126ffff13bf261a5c52e96d",
- "size": 221196331,
+ "sha256": "d1827d030e5fef122abbfa491d434805d1cc1d0e2de9547849799529cb2a2294",
+ "size": 221220962,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.10.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.11.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.10: model besar tidak lagi berhenti 'Not enough memory' (faktorisasi jauh lebih hemat memori, mesh dikasarkan otomatis bila perlu); ujung profil di sudut digambar menutup seperti di Rhino."
+ "notes": "ALIEF FEA PRO 0.5.11: tampilan mesh dan hasil analisa menggambar ujung profil di sudut sama seperti tampilan model."
 }
