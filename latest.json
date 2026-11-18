@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.13",
+ "version": "0.5.14",
  "date": "2026-11-18",
- "sha256": "1b2c9be0c950fa5f63ad4c13b1ae86f3cdd268d8aa9ea114881494e6a44c5091",
- "size": 222365654,
+ "sha256": "7d10cec0ee708723f442bad96dbc336de24bbf9c5a730ff6e476e343b0aa935c",
+ "size": 223545518,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.13.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.14.exe.011"
  ],
- "notes": "Alat kurva / surface: kursor berubah selama perintah, control point digeser dengan drag (F10), Rotate 3D, Split (semua bagian tetap), klik kiri tidak lagi memutar tampilan saat perintah berjalan, Project mengikuti surface, Patch / Network tidak menutup program dan tepat di boundary, daftar pilihan untuk obyek bertumpuk (Tab = berikutnya)."
+ "notes": "Peringatan saat menutup program bila model belum disimpan; proyeksi tepat di surface (juga surface Rhino); control point tampil saat kurva dipilih dan bisa langsung digeser; Import DXF curve diperbaiki (OCS, block, mirror, spline); tampilan surface jauh lebih halus dan Mesh size dijelaskan; Fillet pada polyline / 3D polyline; Sweep 1 mengikuti seluruh rail bersudut."
 }
