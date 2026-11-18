@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.12",
- "date": "2026-11-17",
- "sha256": "d72716d3fcc1d98a12e37a9ce44e3a5873fd96e3073ebca44fec4fb2402fa598",
- "size": 221205783,
+ "version": "0.5.13",
+ "date": "2026-11-18",
+ "sha256": "1b2c9be0c950fa5f63ad4c13b1ae86f3cdd268d8aa9ea114881494e6a44c5091",
+ "size": 222365654,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.12.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.13.exe.011"
  ],
- "notes": "ALIEF FEA PRO 0.5.12: ujung profil yang berhenti beberapa mm sebelum pelat diperpanjang otomatis (tidak ada lagi tegangan puncak palsu di ujung penegar); tabel Code check menunjukkan letak elemen penentu dan jumlah elemen di atas batas; peringatan beban yang tidak masuk load case dan tekanan salah satuan."
+ "notes": "Alat kurva / surface: kursor berubah selama perintah, control point digeser dengan drag (F10), Rotate 3D, Split (semua bagian tetap), klik kiri tidak lagi memutar tampilan saat perintah berjalan, Project mengikuti surface, Patch / Network tidak menutup program dan tepat di boundary, daftar pilihan untuk obyek bertumpuk (Tab = berikutnya)."
 }
