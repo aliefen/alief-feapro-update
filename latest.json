@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.14",
- "date": "2026-11-18",
- "sha256": "7d10cec0ee708723f442bad96dbc336de24bbf9c5a730ff6e476e343b0aa935c",
- "size": 223545518,
+ "version": "0.5.15",
+ "date": "2026-11-19",
+ "sha256": "c2e055cb50c2eb663388ad82ed08ed5a4cdec6bb4e259449bebe7e026bd7cf9b",
+ "size": 224737551,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.14.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.15.exe.011"
  ],
- "notes": "Peringatan saat menutup program bila model belum disimpan; proyeksi tepat di surface (juga surface Rhino); control point tampil saat kurva dipilih dan bisa langsung digeser; Import DXF curve diperbaiki (OCS, block, mirror, spline); tampilan surface jauh lebih halus dan Mesh size dijelaskan; Fillet pada polyline / 3D polyline; Sweep 1 mengikuti seluruh rail bersudut."
+ "notes": "Patch / Network: surface melewati tepat semua gading, waterline dan pembujur (network surface seperti Rhino NetworkSrf); jauh lebih cepat dan tidak lagi not responding (proses di latar belakang dengan tombol Cancel); mesh FE surface lengkung lebih andal."
 }
