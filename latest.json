@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.17",
+ "version": "0.5.18",
  "date": "2026-11-24",
- "sha256": "803b735d1c51b41207053cabe82ba9bee0cf83f90cff0bc93e1ae12eafb70073",
- "size": 226472625,
+ "sha256": "e8e2446521bff68ebfecea08d429763d904d049a8feadfe598f1ead08fa3acae",
+ "size": 226468370,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.17.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.18.exe.011"
  ],
- "notes": "Analisis tidak lagi berhenti dengan error 'Distorted quad element (negative Jacobian)': elemen quad yang cacat otomatis diganti elemen segitiga yang sah setelah mesh dibuat (lihat Messages: Mesh repair)."
+ "notes": "Pembersihan mesh otomatis: sisi elemen yang sangat pendek disatukan dan segitiga pipih dibuang sebelum analisis, sehingga elemen jarum dengan tegangan puncak palsu tidak terbentuk (Mesh > Settings > Merge short edges). Model Doctor memperingatkan permukaan yang memakai Global element size terlalu besar."
 }
