@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.16",
- "date": "2026-11-20",
- "sha256": "9c11ccbfe8ef8b07b12e39d63a6d48b57bf5fe7bb967c034085c244b3b99c764",
- "size": 226490435,
+ "version": "0.5.17",
+ "date": "2026-11-24",
+ "sha256": "803b735d1c51b41207053cabe82ba9bee0cf83f90cff0bc93e1ae12eafb70073",
+ "size": 226472625,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.16.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.17.exe.011"
  ],
- "notes": "Beban laut otomatis sesuai aturan kelas: PB (bottom), PS (sisi) dan PD (geladak cuaca) menurut BKI Rules for Hull Section 4 - kulit luar lambung dicari otomatis, tekanan dihitung per elemen, load case dan bab laporan dibuat otomatis (Analysis > Class sea load)."
+ "notes": "Analisis tidak lagi berhenti dengan error 'Distorted quad element (negative Jacobian)': elemen quad yang cacat otomatis diganti elemen segitiga yang sah setelah mesh dibuat (lihat Messages: Mesh repair)."
 }
