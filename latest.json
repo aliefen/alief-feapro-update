@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.19",
+ "version": "0.5.20",
  "date": "2026-11-25",
- "sha256": "23e193d2fb8e7d697f15b65666190cb7ce3adf2c6c0513e719a16e18a1a4f716",
- "size": 226530115,
+ "sha256": "1784df0906b0c49744af0ff4c792c41427bdfd4d054ed8efeffcd6f319033398",
+ "size": 226521991,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.19.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.20.exe.011"
  ],
- "notes": "Meshing tidak lagi crash / macet pada model besar: jumlah elemen dibatasi otomatis sebelum meshing, mesher berjalan di proses pembantu (program tetap hidup bila mesher gagal), dan pelat yang berakhir beberapa mm di samping permukaan lain disambung otomatis (toleransi 5 mm)."
+ "notes": "Perbaikan error 'access violation reading 0x0000000000000008' saat analisis di v0.5.19: geometri apa adanya dicoba lebih dulu (seperti v0.5.18); penyambungan dengan toleransi hanya dipakai sebagai pemulihan bila mesher gagal."
 }
