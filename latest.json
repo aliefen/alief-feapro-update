@@ -1,21 +1,21 @@
 {
  "product": "ALIEF_FEAPRO",
- "version": "0.5.18",
- "date": "2026-11-24",
- "sha256": "e8e2446521bff68ebfecea08d429763d904d049a8feadfe598f1ead08fa3acae",
- "size": 226468370,
+ "version": "0.5.19",
+ "date": "2026-11-25",
+ "sha256": "23e193d2fb8e7d697f15b65666190cb7ce3adf2c6c0513e719a16e18a1a4f716",
+ "size": 226530115,
  "parts": [
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.001",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.002",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.003",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.004",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.005",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.006",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.007",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.008",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.009",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.010",
-  "ALIEF_FEAPRO_Setup_0.5.18.exe.011"
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.001",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.002",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.003",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.004",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.005",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.006",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.007",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.008",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.009",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.010",
+  "ALIEF_FEAPRO_Setup_0.5.19.exe.011"
  ],
- "notes": "Pembersihan mesh otomatis: sisi elemen yang sangat pendek disatukan dan segitiga pipih dibuang sebelum analisis, sehingga elemen jarum dengan tegangan puncak palsu tidak terbentuk (Mesh > Settings > Merge short edges). Model Doctor memperingatkan permukaan yang memakai Global element size terlalu besar."
+ "notes": "Meshing tidak lagi crash / macet pada model besar: jumlah elemen dibatasi otomatis sebelum meshing, mesher berjalan di proses pembantu (program tetap hidup bila mesher gagal), dan pelat yang berakhir beberapa mm di samping permukaan lain disambung otomatis (toleransi 5 mm)."
 }
